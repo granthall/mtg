@@ -1,0 +1,40 @@
+[{
+	"name": "Adorable Kitten",
+	"manaCost": "{W}",
+	"cmc": 1,
+	"colors": [
+		"White"
+	],
+	"colorIdentity": [
+		"W"
+	],
+	"type": "Host Creature — Cat",
+	"types": [
+		"Host",
+		"Creature"
+	],
+	"subtypes": [
+		"Cat"
+	],
+	"rarity": "Common",
+	"set": "UST",
+	"setName": "Unstable",
+	"text": "When this creature enters the battlefield, roll a six-sided die. You gain life equal to the result.",
+	"artist": "Andrea Radeck",
+	"number": "1",
+	"power": "1",
+	"toughness": "1",
+	"layout": "normal",
+	"multiverseid": 439390,
+	"imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439390&type=card",
+	"printings": [
+		"UST"
+	],
+	"originalText": "When this creature enters the battlefield, roll a six-sided die. You gain life equal to the result.",
+	"originalType": "Host Creature — Cat",
+	"legalities": [{
+		"format": "Un-Sets",
+		"legality": "Legal"
+	}],
+	"id": "95ebdf85f4ea74d584dfdfb72e3de5001d0748a9"
+}]
